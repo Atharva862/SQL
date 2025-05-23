@@ -164,7 +164,8 @@ LIMIT 10;
 
 - Excel and R, although more traditional tools, still command top salaries in specialized fields like finance, statistics, and healthcare analytics.
 
-![Top Paying Skills](assets/png/top_paying_skills.png)*Graph Visualization for top 10 Highest Paying Data Science Skills, Generated using ChatGPT from my SQL query results.*
+![Top Paying Skills](assets/png/top_paying_skills.png)
+*Graph Visualization for top 10 Highest Paying Data Science Skills, Generated using ChatGPT from my SQL query results.*
 ### 5. Optimal Skills
 In this query, I focused on remote Data Scientist jobs that include salary details. I then found out how often each skill appears (to see which are most in demand) and also calculated the average salary for jobs requiring each skill. After that, I filtered out skills that appeared in fewer than 20 job postings to keep the results meaningful. Finally, I sorted the list by demand to highlight the most useful and best-paying skills.
 ```sql
@@ -222,7 +223,8 @@ ORDER BY
 
 - R and TensorFlow show up less frequently but are linked to niche roles that can still pay well, especially in research or AI-heavy positions.
 
-![Optimal Skills](assets/png/optimal_skills.png)*Graph Visualization for Optimal Data Science Skills, Generated using ChatGPT from my SQL query results.*
+![Optimal Skills](assets/png/optimal_skills.png)
+*Graph Visualization for Optimal Data Science Skills, Generated using ChatGPT from my SQL query results.*
 #   What I Learned
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
